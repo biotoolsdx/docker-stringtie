@@ -1,0 +1,3 @@
+# stringtie 
+
+dockerfile for stringtie
